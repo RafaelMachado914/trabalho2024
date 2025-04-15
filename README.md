@@ -32,8 +32,9 @@ Comecei no curso a menos de 1 mês e gostaria de testar meus cinhecimento até o
  deve ser apresentado novamente, até que o usuário selecione a opção 5 - Sair.
 
  • Ao selecionar a opção 1 – Venda de produto, o programa deve:
- ◦ Solicitar que o usuário digite o nome do produto a ser vendido. 
 
+
+ ◦ Solicitar que o usuário digite o nome do produto a ser vendido. 
 ▪ Caso o usuário digite o nome de um produto que não existe na loja, o programa
  deve apresentar uma mensagem informando e solicitar que o usuário digite o nome
  do produto novamente.
@@ -56,6 +57,7 @@ Comecei no curso a menos de 1 mês e gostaria de testar meus cinhecimento até o
  ▪ Valor pago.
  ◦ Perceba que em cada venda só pode ser vendido um único tipo de produto.
 
+
 • Ao selecionar a opção 2 – Reposição de Estoque, o programa deve:
  ◦ Solicitar que o usuário digite o nome do produto.
 
@@ -67,18 +69,24 @@ Comecei no curso a menos de 1 mês e gostaria de testar meus cinhecimento até o
 
 ◦ Solicitar que o usuário digite a quantidade a ser reposta (quantidade comprada pela
  loja).
- 
+
  ◦ Apresentar uma mensagem de finalização da reposição com as seguintes informações:
  ▪ Nome do produto.
  ▪ Nova quantidade em estoque.
+
+
  • Ao selecionar a opção 3 – Relatório de estoque, o programa deve:
  ◦ Apresentar uma lista com o nome dos produtos comercializados pela loja, seu preço de
  custo e a quantidade em estoque de cada um deles.
+
+
  • Ao selecionar a opção 4 – Relatório de vendas, o programa deve:
  ◦ Apresentar uma lista com as vendas realizadas pela loja, com os seguintes dados:
  ▪ Nome do produto vendido.
  ▪ Quantidade vendida.
  ▪ Valor da venda.
+
+
  • Ao selecionar a opção 5 – Sair, o programa deve:
  ◦ Apresentar o valor total das vendas da loja.
  ◦ Encerrar a execução
